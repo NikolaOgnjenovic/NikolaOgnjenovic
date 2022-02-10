@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Android applications**
 
-- 💬 Ask me about **android development in java, Android Studio, Kotlin, Unity Game development, C#, C++ implementations of data structures & algorithms..**
+- 💬 Ask me about **Android app development, Android Studio, Java, Kotlin, Unity Game development, C#, C++ implementations of data structures & algorithms..**
 
 - 📫 How to reach me **nikola.31023@gmail.com**
 
